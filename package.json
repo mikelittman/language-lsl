@@ -1,15 +1,15 @@
 {
-    "name": "language-lsl",
+    "name": "language-lsl-x",
     "version": "2.0.6",
     "private": false,
     "description": "A Linden Scripting Language package for Atom",
     "homepage": "https://atom.io/packages/language-lsl/",
     "repository": {
         "type": "git",
-        "url": "https://github.com/digitalfiz/language-lsl.git"
+        "url": "https://github.com/mikelittman/language-lsl-x"
     },
     "bugs": {
-        "url": "https://github.com/digitalfiz/language-lsl/issues/"
+        "url": "https://github.com/mikelittman/language-lsl-x"
     },
     "license": "MIT",
     "engines": {
