@@ -1,19 +1,19 @@
 {
-    "name": "language-lsl-x",
-    "version": "2.0.7",
-    "private": false,
-    "description": "A Linden Scripting Language package for Atom",
-    "homepage": "https://atom.io/packages/language-lsl/",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/mikelittman/language-lsl-x"
-    },
-    "bugs": {
-        "url": "https://github.com/mikelittman/language-lsl-x"
-    },
-    "license": "MIT",
-    "engines": {
-        "atom": "*"
-    },
-    "dependencies": {}
+  "name": "language-lsl-x",
+  "version": "2.0.8",
+  "private": false,
+  "description": "A Linden Scripting Language package for Atom",
+  "homepage": "https://atom.io/packages/language-lsl/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikelittman/language-lsl-x"
+  },
+  "bugs": {
+    "url": "https://github.com/mikelittman/language-lsl-x"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {}
 }
